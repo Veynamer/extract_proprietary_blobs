@@ -22,7 +22,7 @@ on:
       DEVICE_CODENAME:
         description: 'Device Codename'
         required: true
-        default: 'X6816D'
+        default: 'Infinix-X6816D'
       DEVICE_VENDORNAME:
         description: 'Device Vendor Name'
         required: true
