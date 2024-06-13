@@ -6,7 +6,7 @@ on:
       FIRMWARE_DUMP_REPO:
         description: 'Firmware Dump Repository URL'
         required: true
-        default: 'https://dumps.tadiphone.dev/dumps/infinix/infinix-x6816d.git'
+        default: 'https://gitgud.io/okbuddygsi-dumps/infinix/Infinix-X6816D'
       FIRMWARE_DUMP_BRANCH:
         description: 'Firmware Dump Repository Branch'
         required: true
