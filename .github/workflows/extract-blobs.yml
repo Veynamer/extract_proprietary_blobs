@@ -10,7 +10,7 @@ on:
       FIRMWARE_DUMP_BRANCH:
         description: 'Firmware Dump Repository Branch'
         required: true
-        default: 'X6816D-ST683JKR-R-OP-230411V10'
+        default: 'X6816D-user-12-SP1A.210812.016-235-release-keys'
       DEVICE_TREE_REPO:
         description: 'Device Tree Repository URL'
         required: true
@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'Device Tree Repository Branch'
         required: true
-        default: 'android-11'
+        default: 'android-12'
       DEVICE_CODENAME:
         description: 'Device Codename'
         required: true
